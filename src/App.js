@@ -2,7 +2,7 @@ import { ThemeContext, useMode } from "./theme";
 import { CssBaseline, ThemeProvider } from "@mui/material";
 import { Routes, Route } from "react-router-dom";
 import Header from "./pages/global/Header";
-import SideBar from "./pages/global/SideBar.jsx";
+import SideBar from "./pages/global/Sidebar.jsx";
 import Dashboard from "./pages/dashboard";
 import VentaPos from "./pages/pos/VentaPos";
 import CrearBodega from "./pages/bodegas/CrearBodega";
